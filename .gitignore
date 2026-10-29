@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local MVTec AD dataset
+bottle/
+cable/
+capsule/
+hazelnut/
+
+# Large generated model checkpoints
+outputs/models/
+
+# Runtime-generated prediction files
+outputs/predictions/

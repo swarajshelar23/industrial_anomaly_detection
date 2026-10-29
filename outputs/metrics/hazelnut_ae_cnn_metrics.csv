@@ -1,0 +1,2 @@
+category,model,roc_auc,precision,recall,f1,accuracy,threshold,fpr,tn,fp,fn,tp
+hazelnut,ae_cnn,0.6742857142857143,0.75,0.6,0.6666666666666666,0.6181818181818182,0.0018274514004588127,0.35,26,14,28,42

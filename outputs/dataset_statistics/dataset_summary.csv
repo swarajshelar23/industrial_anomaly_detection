@@ -1,0 +1,5 @@
+category,status,train_good_count,test_good_count,defective_test_count,ground_truth_count,defect_names,missing_dirs,corrupt_images
+bottle,ok,209,20,63,63,"broken_large, broken_small, contamination",-,-
+cable,ok,224,58,92,92,"bent_wire, cable_swap, combined, cut_inner_insulation, cut_outer_insulation, missing_cable, missing_wire, poke_insulation",-,-
+capsule,ok,219,23,109,109,"crack, faulty_imprint, poke, scratch, squeeze",-,-
+hazelnut,ok,391,40,70,70,"crack, cut, hole, print",-,-
